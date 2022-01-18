@@ -1,14 +1,15 @@
-**Edge-List:**
+<h1>Edge-List: </h1>
 
 <p> from  = definiert den Sender in gerichteten Netzwerken. Entspricht ID in der Nodelist. Keine Sonderzeichen, nur ein Wort (der, der unterbricht)</p>
 <p> to  = definiert den Empfänger in ungerichteten Netzwerken. Entspricht ID in der Nodelist. Keine Sonderzeichen, etc. (der, der unterbrochen wird)</p>
 <p> kommentar	= definiert die Art von Kommentar: 1= Beifall; 2= Zuruf; 3= Widerspruch; 4= Nachfrage; 5= Antwort; 6= keine Angabe; 7=Gegenruf; 8=Lachen </p>
-<p> tonalität:	1= zustimmend, 2= ablehnend, 3= neutral; 4= spöttisch </p>
+<p> tonalität	1= zustimmend, 2= ablehnend, 3= neutral; 4= spöttisch </p>
 <p> zeit	= beschreibt, die wie vielte Sitzung das ist </p>
 <p> folge	= beschreibt die Reaktion des Sprechers auf den Kommentar: 1= Unterbrechung der Sitzung, indem geantwortet wird, 2= Sitzung wird fortgeführt , 3= jmd wird der Sitzung verwiesen </p>
 <p> thema	= beschreibt das Thema der Rede: 1= Finanzen, 2= Innenpolitik, 3= Außenpolitik, 4= Wirtschaft, 5= Justiz, 6= Soziales, 7= Verteidigung, 8= Landwirtschaft, 9= Familie, 10= Gesundheit, 11= Verkehr, 12= Umwelt, 13= Bildung, 13= Entwicklung, 14=Anfang/Ende der Rede; 15=Nicht zuzuordnen; 16=Regierungsbildung </p>
 <p></p>	
-**Node-List**
+
+<h1> Node-List </h1>
 Grundregel: die IDs der Nodelist müssen mit den IDs der Edgelist komplett übereinstimmen. Ausprägungen der Attribute in der Regel numerisch definieren.
 
 <p> id	= eindeutige Identifikation jedes einzelnen Knotens (vertex), der erfasst wird: Personen und Parteien (Initialen) </p>
