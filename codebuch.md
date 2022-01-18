@@ -1,6 +1,6 @@
 **Edge-List:**
 
-**from**  = definiert den Sender in gerichteten Netzwerken. Entspricht ID in der Nodelist. Keine Sonderzeichen, nur ein Wort (der, der unterbricht)
+<p>**from**  = definiert den Sender in gerichteten Netzwerken. Entspricht ID in der Nodelist. Keine Sonderzeichen, nur ein Wort (der, der unterbricht)</p>
 **to**  = definiert den Empfänger in ungerichteten Netzwerken. Entspricht ID in der Nodelist. Keine Sonderzeichen, etc. (der, der unterbrochen wird)
 **kommentar**	= definiert die Art von Kommentar: 1= Beifall; 2= Zuruf; 3= Widerspruch; 4= Nachfrage; 5= Antwort; 6= keine Angabe; 7=Gegenruf; 8=Lachen
 **tonalität:**	1= zustimmend, 2= ablehnend, 3= neutral; 4= spöttisch
@@ -15,10 +15,10 @@ Grundregel: die IDs der Nodelist müssen mit den IDs der Edgelist komplett über
 **name**	= Name der Person oder Partei
 **typ**	= definiert ob Person oder Partei, 1= Person, 2= Partei
 **geschlecht:**	1= männlich, 2= weiblich
-**partei** = Parteien durchzählen zB 1=CDU; 2=SPD; 
+**partei** 1=CDU; 2=SPD; 3=GRUENE; 4=FDP; 5=LINKE; 6=AFD; 7=fraktionslos
 **regierung**	1= Regierung, 2= Opposition
 **power**	1= Parteispitze, 2= Mitglied der Partei
-**bundesland**	Bundesländer 1-16 durch zählen
+**bundesland**
 	1 Schleswig-Holstein (SH)
 	2 Hamburg (HH)
 	3 Niedersachsen (NI)
