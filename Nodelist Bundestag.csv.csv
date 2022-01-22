@@ -1,0 +1,115 @@
+id,name,typ,geschlecht,partei,regierung,power,bundesland
+CDU,Christlich Demokratische Union Deutschlands,2,99,CDU,1,99,99
+SPD,Sozialdemokratische Partei Deutschlands,2,99,SPD,1,99,99
+FDP,Frei Demokratische Partei,2,99,FDP,2,99,99
+GRUENE,Bündnis 90/ Die Grünen,2,99,GRUENE,2,99,99
+LINKE,Die Linke,2,99,LINKE,2,99,99
+AFD,Alternative für Deutschland,2,99,AFD,2,99,99
+JH,Jürgen Hardt,1,1,CDU,1,2,5
+BB,Bernd Baumann,1,1,AFD,2,2,2
+AOE,Aydan Özoğuz,1,2,SPD,1,2,2
+AGL,Alexander Graf Lambsdorff,1,1,FDP,2,2,5
+CH,Christoph Hoffmann,1,1,FDP,2,2,8
+DD,Dieter Dehm,1,1,LINKE,2,2,3
+APH,Armin-Paulus Hampel,1,1,AFD,2,2,3
+AG,Alexander Gauland,1,1,AFD,2,2,12
+JK,Jan Korte,1,1,LINKE,2,2,15
+NR,Norbert Röttgen,1,1,CDU,1,2,5
+ON,Omid Nouripour,1,1,GRUENE,2,2,6
+BH,Britta Haßelmann,1,2,GRUENE,2,2,5
+AB,Annalena Baerbock,1,2,GRUENE,2,1,12
+MB,Marco Bülow,1,1,NA,2,2,5
+RB,Reinhard Brandl,1,1,CDU,1,2,9
+MASZ,Marie-Agnes Strack-Zimmermann,1,2,FDP,2,2,5
+AD,Alexander Dobrindt,1,1,CDU,1,2,9
+MR,Mechthild Rawert,1,2,SPD,1,2,11
+SM,Siemtje Möller,1,2,SPD,1,2,3
+HO,Henning Otte,1,1,CDU,1,2,3
+KAL,Karl A. Lamers,1,1,CDU,1,2,8
+PP,Petra Pau,1,2,LINKE,2,2,11
+OS,Olaf Scholz,1,1,SPD,1,2,12
+TE,Thomas Ehrhorn,1,1,AFD,2,2,3
+PB,Peter Boehringer,1,1,AFD,2,2,9
+AW,Alice Weidel,1,2,AFD,2,2,8
+UN,Ulli Nissen,1,2,SPD,1,2,6
+AL,Armin Laschet,1,1,CDU,1,1,5
+DB,Dietmar Bartsch,1,1,LINKE,2,2,13
+TC,Tino Chrupalla,1,1,AFD,2,1,14
+KG,Kay Gottschalk,1,1,AFD,2,2,5
+UW,Uwe Witt,1,1,AFD,2,2,5
+CD,Christian Dürr,1,1,FDP,2,2,3
+OF,Otto Fricke,1,1,FDP,2,2,5
+GL,Gesine Lötzsch,1,2,LINKE,2,2,11
+RBH,Ralf Brinkhaus,1,1,CDU,1,2,5
+WS,Wolfang Schäuble,1,1,CDU,1,1,8
+HH,Heike Hänsel,1,2,LINKE,2,2,8
+VM,Volker Münz,1,1,AFD,2,2,8
+CR,Claudia Roth,1,2,GRUENE,2,2,9
+RM,Rolf Mützenich,1,1,SPD,1,2,5
+AB,Agnieszka Brugger,1,2,GRUENE,2,2,8
+JT,Jürgen Trittin,1,1,GRUENE,2,2,3
+CL,Christian Lindner,1,1,SPD,1,1,5
+MF,Markus Frohnmeier,1,1,AFD,2,2,8
+KD,Katharina Dröge,1,2,GRUENE,2,2,5
+SE,Saskia Esken,1,2,SPD,1,2,8
+JDW,Johann David Wadephul,1,1,CDU,1,2,1
+US,Ulla Schmidt,1,2,SPD,1,2,5
+CS,Carsten Schneider,1,1,SPD,1,2,16
+KGE,Katrin Göring-Eckardt,1,2,GRUENE,2,2,16
+PBY,Petr Bystron,1,1,AFD,2,2,9
+MD,Malu Dreyer,1,2,SPD,1,2,7
+CH,Christian Haase,1,1,CDU,1,2,5
+ZN,Zaklin Nastic,1,2,LINKE,2,2,1
+GH,Gabriela Heinrich,1,1,SPD,1,2,9
+RL,Rüdiger Lucassen,1,2,AFD,2,2,5
+UTH,Udo Theodor Hemmelgarn,1,1,AFD,2,2,5
+MGB,Michael Grosse-Brömer,1,1,CDU,1,2,9
+MR,Manuela Rottmann,1,2,GRUENE,2,2,9
+DD,Diether Dehm,1,1,LINKE,2,2,3
+MG,Manfred Grund,1,1,CDU,1,2,16
+RL,Ralph Lenkert,1,1,LINKE,2,2,16
+SB,Stephan Brandner,1,1,AFD,2,2,16
+DW,Dirk Wiese,1,1,SPD,1,2,5
+JML,Jan-Marco Luczak,1,1,CDU,1,2,11
+GK,Gunther Krichbaum,1,1,CDU,1,2,8
+AK,Alexander Krauß,1,1,CDU,1,2,14
+HB,Heike Baehrens,1,2,SPD,1,2,8
+DA,Doris Achelwilm,1,2,LINKE,2,2,4
+KV,Kathrin Vogler,1,2,LINKE,2,2,5
+AU,Andrew Ullmann,1,1,FDP,2,2,9
+PS,Petra Sitte,1,2,LINKE,2,2,15
+JS,Jens Spahn,1,1,CDU,1,2,5
+CAD,Christine Aschenberg-Dugnus,1,2,FDP,2,2,1
+MS,Martin Sichert,1,1,AFD,2,2,9
+SL,Steffi Lemke,1,2,GRUENE,2,2,15
+DS,Detlev Spangenberg,1,1,AFD,2,2,14
+AMA,Amira Mohamed Ali,1,2,LINKE,2,2,3
+SF,Susanne Ferschl,1,2,LINKE,2,2,9
+TL,Thomas Lutze,1,1,LINKE,2,2,10
+ST,Stephan Thomae,1,1,FDP,2,2,9
+JD,Janosch Dahmen,1,1,GRUENE,2,2,5
+RH,Rudolf Henke,1,1,CDU,1,2,5
+GK,Gabriele Katzmarek,1,2,SPD,1,2,8
+SD,Sabine Dittmar,1,2,SPD,1,2,9
+TS,Thomas Sattelberger,1,1,FDP,2,2,9
+FG,Franziska Gminder,1,2,AFD,2,2,8
+RR,Rene Röspel,1,1,SPD,1,2,5
+TF,Thorsten Frei,1,1,CDU,1,2,8
+MSF,Martina Stamm-Fibich,1,2,SPD,1,2,9
+TH,Thomas Hitschler,1,1,SPD,1,2,7
+OF,Otto Fricke,1,1,FDP,2,2,5
+OK,Oliver Krischer,1,1,GRUENE,2,2,5
+SB,Sebastian Brehm,1,1,CDU,1,2,9
+LK,Lukas Köhler,1,1,FDP,2,2,9
+SH,Sebastian Hartmann,1,1,SPD,1,2,5
+MH,Mechthild Heil,1,2,CDU,1,2,7
+JW,Joe Weingarten,1,1,SPD,1,2,7
+MS,Marianne Schieder,1,2,SPD,1,2,9
+DS,Detlef Seif,1,1,CDU,1,2,5
+MR,Martin Reichard,1,1,AFD,2,2,15
+WS,Wieland Schinnenburg,1,1,FDP,2,2,2
+HW,Harald Weyel,1,1,AFD,2,2,5
+GF,Götz Frömming,1,1,AFD,2,2,11
+AM,Angela Merkel,1,2,CDU,1,1,13
+CP,Christian Petry,1,1,SPD,1,2,10
+AH,Anton Hofreiter,1,1,GRUENE,2,2,9
