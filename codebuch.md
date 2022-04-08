@@ -18,7 +18,8 @@ Grundregel: die IDs der Nodelist müssen mit den IDs der Edgelist komplett über
 <p> typ	= definiert ob Person oder Partei, 1= Person, 2= Partei </p>
 <p> geschlecht:	1= männlich, 2= weiblich </p>
 <p> partei 1=CDU; 2=SPD; 3=GRUENE; 4=FDP; 5=LINKE; 6=AFD; 7=fraktionslos </p>
-<p> regierung	1= Regierung, 2= Opposition </p>
+<p> regierungvor: 19. Legislaturperiode	1= Regierung, 2= Opposition </p>
+<p> regierungnach: 20. Legislaturperiode 1= Regierung, 2= Opposition </p>
 <p> power	1= Parteispitze, 2= Mitglied der Partei </p>
 <p> bundesland
 	1 Schleswig-Holstein (SH)
